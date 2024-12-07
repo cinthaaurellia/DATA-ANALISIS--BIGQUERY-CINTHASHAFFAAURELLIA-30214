@@ -1,0 +1,21 @@
+persediaan_id,produksi_id,jumlah_stok,lokasi_gudang
+1,1,80,Gudang A
+2,2,120,Gudang B
+3,3,170,Gudang C
+4,4,200,Gudang D
+5,5,250,Gudang A
+6,6,90,Gudang B
+7,7,100,Gudang C
+8,8,110,Gudang D
+9,9,120,Gudang A
+10,10,140,Gudang B
+11,11,150,Gudang C
+12,12,160,Gudang D
+13,13,170,Gudang A
+14,14,180,Gudang B
+15,15,190,Gudang C
+16,16,200,Gudang D
+17,17,210,Gudang A
+18,18,220,Gudang B
+19,19,230,Gudang C
+20,20,240,Gudang D
